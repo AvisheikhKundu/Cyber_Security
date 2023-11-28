@@ -10,8 +10,8 @@ A Certified Ethical Hacker(CEH) is a skilled professional who understands and kn
 1. Number of Questions: 125 Only<br>
 2. Test Duration: 4 Hours<br>
 3. Test Format: Multiple Choice Questions<br>
-4. Test Delivery: ECC EXAM, VUE<br>
-5. Exam Prefix: 312-50 (ECC EXAM), 312-50 (VUE)<br>
+4. Test Delivery: <br>
+5. Exam Prefix: <br>
 <hr>
 Chapter 0 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php" class="button">Assessment Test (35)</a><br>
 Chapter 1 - <a href="http://yeahhub.com/cehv9-practice-exam-questions/chapter1-introduction.php" class="button">Introduction (20)</a><br>
